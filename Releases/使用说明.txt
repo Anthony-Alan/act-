@@ -1,0 +1,7 @@
+1.打开act文件（管理员）
+2.导入ff14插件
+3.导入overlayplugin.dll
+4.在Plugins-OverlayPlugin.dll选项下选择miniparse，在url中选择\1.5.1.3\Overlay Theme Master\tristoune_miniparse.html
+5.打开直播姬，游戏画面使用游戏源进行捕捉，再打开抓屏，选择窗口，点选窗口模式，再选择act overlay这个选项
+6.将直播画面中的act拖动至你喜欢的位置
+7.搞定
